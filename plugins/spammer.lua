@@ -1,5 +1,6 @@
-local function run(msg)
-if msg.text == "spam" 
+do
+
+function run(msg, matches)
 	return "".. [[ 
   
   
